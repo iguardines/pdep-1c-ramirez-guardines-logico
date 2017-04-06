@@ -9,5 +9,6 @@ Fernando es analista funcional.
 Andrés es project leader pero no programa.
 Alguien es programador, si es que programa en algún lenguaje (no importa si además cumple otro rol).
 Codifique la base de conocimientos en base a lo anteriormente expuesto. En caso de no agregar nada justifique su decisión.
-
+programa/2
+trabajaDe/2
 */
