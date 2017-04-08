@@ -12,3 +12,14 @@ Codifique la base de conocimientos en base a lo anteriormente expuesto. En caso 
 programa/2
 trabajaDe/2
 */
+
+/*
+Punto 2: Proyectos
+Un proyecto se construye en uno o más lenguajes: por ejemplo el proyecto “Sumatra” necesita programarse una parte en Java y otra en .Net. El proyecto “Prometeus” se hace únicamente en COBOL. Además sabemos en qué proyecto trabaja cada persona: por ejemplo Fernando y Santiago trabajan en el proyecto “Prometeus”. Julieta, Marcos y Andrés trabajan en el proyecto “Sumatra”. Se pide que 
+Agregue los predicados que sean necesarios.
+Queremos saber si una persona está correctamente asignada a un proyecto, esto ocurre si trabaja en ese proyecto y...
+Programa en alguno de los lenguajes en los que se construye ese proyecto.
+O bien, es analista funcional.
+O bien, es project leader.
+Resuelva cómo hacer la consulta y codifíquela.
+*/
